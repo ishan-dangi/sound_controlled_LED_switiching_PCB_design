@@ -1,4 +1,4 @@
-# sound_controlled_LED_switiching_PCB_design
+# Clap_controlled_LED_switiching_PCB_design
 
 This project includes making PCB for a sound coontrolled LED switching circuit from scratch.
 Tools used : Express PCB for PCB design
